@@ -1,0 +1,12 @@
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/bin/Debug/netcoreapp2.2/Demo.Repository.deps.json
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/bin/Debug/netcoreapp2.2/Demo.Repository.dll
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/bin/Debug/netcoreapp2.2/Demo.Repository.pdb
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/bin/Debug/netcoreapp2.2/Demo.Data.dll
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/bin/Debug/netcoreapp2.2/Demo.Data.pdb
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.csprojAssemblyReference.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.csproj.CoreCompileInputs.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.AssemblyInfoInputs.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.AssemblyInfo.cs
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.csproj.CopyComplete
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.dll
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/Debug/netcoreapp2.2/Demo.Repository.pdb

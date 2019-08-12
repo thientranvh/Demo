@@ -1,0 +1,11 @@
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/bin/Debug/netcoreapp2.2/Demo.Data.deps.json
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/bin/Debug/netcoreapp2.2/Demo.Data.runtimeconfig.json
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/bin/Debug/netcoreapp2.2/Demo.Data.runtimeconfig.dev.json
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/bin/Debug/netcoreapp2.2/Demo.Data.dll
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/bin/Debug/netcoreapp2.2/Demo.Data.pdb
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/obj/Debug/netcoreapp2.2/Demo.Data.csprojAssemblyReference.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/obj/Debug/netcoreapp2.2/Demo.Data.csproj.CoreCompileInputs.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/obj/Debug/netcoreapp2.2/Demo.Data.AssemblyInfoInputs.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/obj/Debug/netcoreapp2.2/Demo.Data.AssemblyInfo.cs
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/obj/Debug/netcoreapp2.2/Demo.Data.dll
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/obj/Debug/netcoreapp2.2/Demo.Data.pdb

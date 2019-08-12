@@ -1,0 +1,6 @@
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/obj/Debug/netcoreapp2.2/Demo.Data.csprojAssemblyReference.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/obj/Debug/netcoreapp2.2/Demo.Data.csproj.CoreCompileInputs.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/obj/Debug/netcoreapp2.2/Demo.Data.RazorAssemblyInfo.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/obj/Debug/netcoreapp2.2/Demo.Data.RazorAssemblyInfo.cs
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/obj/Debug/netcoreapp2.2/Demo.Data.AssemblyInfoInputs.cache
+/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/obj/Debug/netcoreapp2.2/Demo.Data.AssemblyInfo.cs

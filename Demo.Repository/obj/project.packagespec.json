@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/Demo.Repository.csproj",
+    "projectName": "Demo.Repository",
+    "projectPath": "/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/Demo.Repository.csproj",
+    "outputPath": "/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Repository/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/Demo.Data.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/RiderProjects/draft/Demo/Demo.Data/Demo.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

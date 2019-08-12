@@ -1,0 +1,35 @@
+﻿@*@model TModel*@
+
+@{
+    ViewBag.Title = "BookDetailView";
+    Layout = "_Layout";
+}
+
+<h1> List </h1>
+
+<div>
+    <table class="table">
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Release Date</th>
+            <th>Author</th>
+            <th>Rating</th>
+        </tr>
+        @foreach (var book in @Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Category.Name</td>
+                <td>@book.ReleaseDate</td>
+                <td>@string.Format("{0} {1}", @book.Author.FirstName, @book.Author.LastName).</td>
+                <td>
+                    @for(int i = 0; i < @book.Rating; i++)
+                    {
+                        <span class="glyphicon glyphicon-star-empty"></span>
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+</div>
